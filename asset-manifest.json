@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/React-gpt3-presentation-page/static/css/main.a70864e1.css",
-    "main.js": "/React-gpt3-presentation-page/static/js/main.653eddbb.js",
-    "static/media/ai.png": "/React-gpt3-presentation-page/static/media/ai.aa60586ba1ba53762d94.png",
-    "static/media/possibility.png": "/React-gpt3-presentation-page/static/media/possibility.525f13b61a2157d44de0.png",
-    "static/media/blog01.png": "/React-gpt3-presentation-page/static/media/blog01.cefc0932eae0d33a0342.png",
-    "static/media/blog03.png": "/React-gpt3-presentation-page/static/media/blog03.d922323861096f25274f.png",
-    "static/media/blog04.png": "/React-gpt3-presentation-page/static/media/blog04.742c1357e7b6c11078e6.png",
-    "static/media/blog05.png": "/React-gpt3-presentation-page/static/media/blog05.bfaa1c1e3851158e0e1f.png",
-    "static/media/blog02.png": "/React-gpt3-presentation-page/static/media/blog02.ab0eb367561796e91532.png",
-    "static/media/people.png": "/React-gpt3-presentation-page/static/media/people.5cd2d6fbcd48bd63f106.png",
-    "static/media/logo.svg": "/React-gpt3-presentation-page/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
-    "index.html": "/React-gpt3-presentation-page/index.html",
-    "main.a70864e1.css.map": "/React-gpt3-presentation-page/static/css/main.a70864e1.css.map",
-    "main.653eddbb.js.map": "/React-gpt3-presentation-page/static/js/main.653eddbb.js.map"
+    "main.css": "/React-presentation-page/static/css/main.a70864e1.css",
+    "main.js": "/React-presentation-page/static/js/main.db080690.js",
+    "static/media/ai.png": "/React-presentation-page/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/React-presentation-page/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/React-presentation-page/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/React-presentation-page/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/React-presentation-page/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/React-presentation-page/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/React-presentation-page/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/React-presentation-page/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/React-presentation-page/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/React-presentation-page/index.html",
+    "main.a70864e1.css.map": "/React-presentation-page/static/css/main.a70864e1.css.map",
+    "main.db080690.js.map": "/React-presentation-page/static/js/main.db080690.js.map"
   },
   "entrypoints": [
     "static/css/main.a70864e1.css",
-    "static/js/main.653eddbb.js"
+    "static/js/main.db080690.js"
   ]
 }
